@@ -3,3 +3,4 @@
 
 ## Stato Attuale
 - Non ci sono informazioni sullo stato attuale o su progetti in corso.
+- L'utente ha iniziato una conversazione, ma non ha espresso alcuna richiesta o domanda specifica.
