@@ -5,6 +5,7 @@
 ## Stato Attuale
 - L'utente ha iniziato una conversazione senza esprimere richieste specifiche inizialmente, ma successivamente ha condiviso la sua ubicazione.
 - L'utente ha condiviso la sua ubicazione attuale come Rimini, più precisamente a San Giuliano Mare.
+- L'utente ha menzionato di abitare a Rimini e di avere una famiglia.
 
 ## Richieste e Domande
 - Ubicazione attuale: Rimini, San Giuliano Mare
@@ -17,6 +18,7 @@
   - Lucia, 25 anni
   - Chiara, 23 anni
   - Elena, 13 anni
+- Gatto: Cloe, 2 mesi
 
 ## Informazioni Utili
 - Per richiedere il cambio di residenza a Rimini, è necessario presentare una richiesta all'anagrafe del Comune, fornendo i documenti necessari (fonte: Comune di Rimini, https://www.comune.rimini.it/servizi/anagrafe-e-stato-civile/richiedere-il-cambio-di-residenza)
