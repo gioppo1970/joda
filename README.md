@@ -2,5 +2,8 @@
 - Utente: Giovanni
 
 ## Stato Attuale
-- Non ci sono informazioni sullo stato attuale o su progetti in corso.
-- L'utente ha iniziato una conversazione, ma non ha espresso alcuna richiesta o domanda specifica.
+- L'utente ha iniziato una conversazione senza esprimere richieste specifiche.
+- L'utente ha chiesto informazioni sulla sua ubicazione attuale, ma non ha condiviso dettagli personali.
+
+## Richieste e Domande
+- Ubicazione attuale: non specificata, l'utente ha chiesto informazioni al riguardo.
