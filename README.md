@@ -11,6 +11,8 @@
 - Ubicazione attuale: Rimini, San Giuliano Mare
 - Informazioni su negozi di abiti a Rimini (inizialmente richieste, poi annullate)
 - Informazioni sulla residenza a Rimini
+- Domanda sulla storia del saluto "ciao"
+- Domanda su chi è l'utente (ricordo della propria identità)
 
 ## Famiglia
 - Moglie: Antonia
@@ -32,8 +34,10 @@
 - Sito web di Atelier Emé (https://www.atelier-eme.com/)
 - Il termine "ciao" deriva dal veneto "s-ciao", che significa "schiavo" (fonte: Vocabolario Treccani)
 - La parola "ciao" è utilizzata come saluto amichevole e informale nella lingua italiana, utilizzata sia nell'incontrarsi che nel salutarsi (fonte: Wikipedia)
+- Canzone "Ricordi" dei Pinguini Tattici Nucleari (fonte: Spotify)
 
 ## Storia del Saluto "Ciao"
 - Il termine "ciao" ha un'origine interessante, derivando dal veneto "s-ciao", che significa "schiavo"
 - Secondo Wikipedia, "ciao" è la più comune forma di saluto amichevole e informale nella lingua italiana
 - Il Vocabolario Treccani fornisce informazioni sull'etimologia e sul significato della parola "ciao"
+- Quando si dice "ciao", in un certo senso, si sta dicendo "schiavo vostro"
