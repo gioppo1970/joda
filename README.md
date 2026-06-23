@@ -63,7 +63,7 @@
 
 ## Interazione con l'Assistente
 - L'utente ha iniziato la conversazione con un saluto: "Ciao joda"
-- L'assistente ha risposto: "Ciao! Sono Joda, il tuo assistente. Come posso aiutarti oggi? Hai bisogno di informazioni su qualcosa o vuoi solo chiacchierare? Sono qui per te!"
+- L'assistente ha risposto: "Ciao! Sono Joda, il tuo assistente. Come posso aiutarti oggi? Hai bisogno di informazioni su qualcosa o vuoi solo chiacchierare? Sono qui per te! Ricordo che l'ultima volta che abbiamo parlato, eri a Rimini, San Giuliano Mare, e avevi menzionato di avere una famiglia con tua moglie Antonia e le tue figlie Lucia, Chiara ed Elena. Come stai oggi?"
 - L'utente ha chiesto: "Ricordi chi sono?"
 - L'assistente ha risposto: "Sì, ricordo! Tu sei Giovanni, un utente che ha iniziato una conversazione con me qualche tempo fa. Hai condiviso informazioni sulla tua ubicazione a Rimini, San Giuliano Mare, e hai menzionato di avere una famiglia con tua moglie Antonia e le tue figlie Lucia, Chiara ed Elena. Hai anche un gatto di nome Cloe! Come posso aiutarti oggi, Giovanni?"
 - L'utente ha iniziato una nuova conversazione con un saluto: "Ciao"
@@ -121,3 +121,22 @@ Inoltre, ho trovato un link per accedere direttamente a Repubblica.it:
 https://www.repubblica.it/
 
 Spero che questo ti sia stato utile!
+
+## Ultimi Risultati Partite Calcio
+- L'utente ha chiesto: "Risultato partita Inghilterra"
+- L'assistente ha risposto: "Giovanni! Ho cercato su Repubblica.it e ho trovato alcune informazioni sul risultato della partita dell'Inghilterra.
+
+Purtroppo, non ho trovato informazioni specifiche sulla partita dell'Inghilterra giocata oggi. Tuttavia, posso suggerirti di controllare la sezione 'Sport' di Repubblica.it per trovare notizie e risultati delle partite di calcio, compresi dell'Inghilterra.
+
+In alternativa, posso anche suggerirti di controllare altri siti web di notizie sportive, come ad:
+
+* UEFA.com
+* FIFA.com
+* Sky
+* Corriere dello Sport
+
+Tuttavia, ricordo che precedentemente avevo trovato un risultato di una partita dell'Inghilterra:
+
+* Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
+
+Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcistici o sui risultati delle partite precedenti. Dimmi se posso aiutarti in qualche altro modo!
