@@ -59,3 +59,5 @@
 - L'assistente ha risposto: "Ciao! Sono Joda, il tuo assistente. Come posso aiutarti oggi? Hai bisogno di informazioni su qualcosa o vuoi solo chiacchierare? Sono qui per te!"
 - L'utente ha chiesto: "Ricordi chi sono?"
 - L'assistente ha risposto: "Sì, ricordo! Tu sei Giovanni, un utente che ha iniziato una conversazione con me qualche tempo fa. Hai condiviso informazioni sulla tua ubicazione a Rimini, San Giuliano Mare, e hai menzionato di avere una famiglia con tua moglie Antonia e le tue figlie Lucia, Chiara ed Elena. Hai anche un gatto di nome Cloe! Come posso aiutarti oggi, Giovanni?"
+- L'utente ha iniziato una nuova conversazione con un saluto: "Ciao"
+- L'assistente ha risposto: "Ciao Giovanni! Sono Joda, il tuo assistente. Come posso aiutarti oggi? Hai bisogno di informazioni su qualcosa o vuoi solo chiacchierare? Sono qui per te! Ricordo che l'ultima volta che abbiamo parlato, eri a Rimini, San Giuliano Mare, e avevi menzionato di avere una famiglia con tua moglie Antonia e le tue figlie Lucia, Chiara ed Elena. Come stai oggi?"
