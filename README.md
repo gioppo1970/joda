@@ -13,6 +13,7 @@
 - Informazioni sulla residenza a Rimini
 - Domanda sulla storia del saluto "ciao"
 - Domanda su chi è l'utente (ricordo della propria identità)
+- Notizie di oggi a Rimini
 
 ## Famiglia
 - Moglie: Antonia
@@ -41,3 +42,10 @@
 - Secondo Wikipedia, "ciao" è la più comune forma di saluto amichevole e informale nella lingua italiana
 - Il Vocabolario Treccani fornisce informazioni sull'etimologia e sul significato della parola "ciao"
 - Quando si dice "ciao", in un certo senso, si sta dicendo "schiavo vostro"
+
+## Notizie di Oggi a Rimini
+- L'ospedale "Infermi" di Rimini è pronto a crescere con investimenti per circa 55 milioni di euro in sei progetti principali, tra cui l'ampliamento dei parcheggi e un nuovo padiglione (fonte: RiminiToday, https://www.riminitoday.it/)
+- La Regione ha approvato il piano di rilancio per le Terme di Rimini (fonte: RiminiToday, https://www.riminitoday.it/)
+- L'ex presidente Rota è indagato per frodi fiscali e bancarotta, e la Finanza ha sequestrato 1,4 milioni di euro (fonte: Il Resto del Carlino, https://www.ilrestodelcarlino.it/rimini)
+- Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
+- La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
