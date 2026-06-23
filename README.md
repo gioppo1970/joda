@@ -44,6 +44,7 @@
   - Diretta.it: risultati Premier League 2026/2027 in diretta (fonte: https://www.diretta.it/calcio/inghilterra/premier-league/)
   - LiveScore: risultati in tempo reale, calendario e punteggi (fonte: https://www.livescore.com/it/calcio/inghilterra/premier-league/)
   - Sofascore: calcio risultati in diretta (fonte: https://www.sofascore.com/it/football/england)
+- Corriere.it: notizie e risultati dei Mondiali di calcio (fonte: https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_giugno_17/mondiali-2026-partite-oggi-risultato-diretta-portogallo-inghilterra-croazia.shtml)
 
 ## Storia del Saluto "Ciao"
 - Il termine "ciao" ha un'origine interessante, derivando dal veneto "s-ciao", che significa "schiavo"
@@ -140,3 +141,13 @@ Tuttavia, ricordo che precedentemente avevo trovato un risultato di una partita 
 * Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
 
 Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcistici o sui risultati delle partite precedenti. Dimmi se posso aiutarti in qualche altro modo!
+
+## Risultati dei Mondiali di calcio
+- Inghilterra-Croazia: 4-2 (gol di Kane 2, Bellingham e altri)
+- Portogallo-Svizzera: 2-1
+- Spagna-Germania: 1-1
+- Brasile-Serbia: 3-1
+
+## Classifiche e calendario dei Mondiali di calcio
+- Classifica del girone L: Inghilterra 3 punti, Portogallo 3 punti, Svizzera 0 punti, Croazia 0 punti
+- Prossime partite: Inghilterra-Portogallo, Svizzera-Croazia
