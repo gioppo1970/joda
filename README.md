@@ -53,3 +53,7 @@
 
 ## Data Odierna
 - Oggi è **martedì 23 giugno 2026** (fonte: https://www.calendariooo.com/)
+
+## Interazione con l'Assistente
+- L'utente ha iniziato la conversazione con un saluto: "Ciao joda"
+- L'assistente ha risposto: "Ciao! Sono Joda, il tuo assistente. Come posso aiutarti oggi? Hai bisogno di informazioni su qualcosa o vuoi solo chiacchierare? Sono qui per te!"
