@@ -85,6 +85,10 @@ Il risultato della partita è stato:
 Inghilterra-Croazia 4-2
 La partita si è svolta nel girone della Coppa del Mondo FIFA. L'Inghilterra ha vinto con una doppietta di Kane e gol di Bellingham e altri.
 (Fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml e https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_giugno_17/mondiali-2026-partite-oggi-risultato-diretta-portogallo-inghilterra-croazia.shtml)"
+- L'utente ha chiesto: "Cerca su gazzetta.it"
+- L'assistente ha risposto: "La Gazzetta dello Sport! Sono andato a cercare su gazzetta.it e ho trovato alcune informazioni interessanti.
+Per esempio, posso trovare notizie sportive e risultati live di oggi, come ad esempio:
+* Notizie sportive e risultati live di calcio, basket, F1, MotoGP, ciclismo, tennis e molto altro (fonte: https://www.gazzetta.it/)
 
 ## Risultati Partite Calcio
 - Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
