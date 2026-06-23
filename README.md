@@ -30,3 +30,10 @@
 - Sito web di Matrimonio.com (https://www.matrimonio.com/abiti-da-cerimonia/rimini)
 - Sito web di Le Spose di Giulia (https://www.lesposedigiuliarimini.it/)
 - Sito web di Atelier Emé (https://www.atelier-eme.com/)
+- Il termine "ciao" deriva dal veneto "s-ciao", che significa "schiavo" (fonte: Vocabolario Treccani)
+- La parola "ciao" è utilizzata come saluto amichevole e informale nella lingua italiana, utilizzata sia nell'incontrarsi che nel salutarsi (fonte: Wikipedia)
+
+## Storia del Saluto "Ciao"
+- Il termine "ciao" ha un'origine interessante, derivando dal veneto "s-ciao", che significa "schiavo"
+- Secondo Wikipedia, "ciao" è la più comune forma di saluto amichevole e informale nella lingua italiana
+- Il Vocabolario Treccani fornisce informazioni sull'etimologia e sul significato della parola "ciao"
