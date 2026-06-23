@@ -16,6 +16,7 @@
 - Notizie di oggi a Rimini
 - Data odierna
 - Informazioni sui progetti personali o lavorativi dell'utente
+- Risultato partita Inghilterra oggi
 
 ## Famiglia
 - Moglie: Antonia
@@ -64,3 +65,5 @@
 - L'assistente ha risposto: "Ciao Giovanni! Sono Joda, il tuo assistente. Come posso aiutarti oggi? Hai bisogno di informazioni su qualcosa o vuoi solo chiacchierare? Sono qui per te! Ricordo che l'ultima volta che abbiamo parlato, eri a Rimini, San Giuliano Mare, e avevi menzionato di avere una famiglia con tua moglie Antonia e le tue figlie Lucia, Chiara ed Elena. Come stai oggi?"
 - L'utente ha chiesto: "Bene, conosci qualcosa dei miei progetti?"
 - L'assistente ha risposto: "Sì, Giovanni! Ricordo che non hai condiviso molti dettagli sui tuoi progetti, ma abbiamo parlato un po' della tua vita a Rimini e della tua famiglia. Non ho informazioni specifiche sui tuoi progetti lavorativi o personali, ma sono qui per ascoltarti e aiutarti se hai bisogno di parlare di qualcosa. Vuoi condividere qualcosa sui tuoi progetti o obiettivi? Sono tutto orecchi!"
+- L'utente ha chiesto: "Risultato partita Inghilterra oggi"
+- L'assistente ha risposto: "Giovanni! Oggi è martedì 23 giugno 2026, quindi non ho informazioni in tempo reale sui risultati delle partite di oggi. Tuttavia, posso suggerirti di controllare i risultati delle partite di calcio su siti web come UEFA, FIFA o altri siti di notizie sportive. Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcistici o sui risultati delle partite precedenti. Dimmi se posso aiutarti in qualche altro modo!"
