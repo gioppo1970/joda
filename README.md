@@ -39,6 +39,10 @@
 - Il termine "ciao" deriva dal veneto "s-ciao", che significa "schiavo" (fonte: Vocabolario Treccani)
 - La parola "ciao" è utilizzata come saluto amichevole e informale nella lingua italiana, utilizzata sia nell'incontrarsi che nel salutarsi (fonte: Wikipedia)
 - Canzone "Ricordi" dei Pinguini Tattici Nucleari (fonte: Spotify)
+- Siti web per risultati delle partite di calcio:
+  - Diretta.it: risultati Premier League 2026/2027 in diretta (fonte: https://www.diretta.it/calcio/inghilterra/premier-league/)
+  - LiveScore: risultati in tempo reale, calendario e punteggi (fonte: https://www.livescore.com/it/calcio/inghilterra/premier-league/)
+  - Sofascore: calcio risultati in diretta (fonte: https://www.sofascore.com/it/football/england)
 
 ## Storia del Saluto "Ciao"
 - Il termine "ciao" ha un'origine interessante, derivando dal veneto "s-ciao", che significa "schiavo"
@@ -67,3 +71,9 @@
 - L'assistente ha risposto: "Sì, Giovanni! Ricordo che non hai condiviso molti dettagli sui tuoi progetti, ma abbiamo parlato un po' della tua vita a Rimini e della tua famiglia. Non ho informazioni specifiche sui tuoi progetti lavorativi o personali, ma sono qui per ascoltarti e aiutarti se hai bisogno di parlare di qualcosa. Vuoi condividere qualcosa sui tuoi progetti o obiettivi? Sono tutto orecchi!"
 - L'utente ha chiesto: "Risultato partita Inghilterra oggi"
 - L'assistente ha risposto: "Giovanni! Oggi è martedì 23 giugno 2026, quindi non ho informazioni in tempo reale sui risultati delle partite di oggi. Tuttavia, posso suggerirti di controllare i risultati delle partite di calcio su siti web come UEFA, FIFA o altri siti di notizie sportive. Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcistici o sui risultati delle partite precedenti. Dimmi se posso aiutarti in qualche altro modo!"
+- L'utente ha chiesto nuovamente: "Rifaccio la domanda, risultato Inghilterra oggi"
+- L'assistente ha risposto: "Giovanni! Ho cercato di trovare informazioni sui risultati delle partite di calcio dell'Inghilterra oggi, ma non ho trovato nulla di specifico. Tuttavia, posso suggerirti alcuni siti web che potrebbero avere informazioni aggiornate sui risultati delle partite di calcio:
+  - Diretta.it: risultati Premier League 2026/2027 in diretta (fonte: https://www.diretta.it/calcio/inghilterra/premier-league/)
+  - LiveScore: risultati in tempo reale, calendario e punteggi (fonte: https://www.livescore.com/it/calcio/inghilterra/premier-league/)
+  - Sofascore: calcio risultati in diretta (fonte: https://www.sofascore.com/it/football/england)
+  - Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)"
