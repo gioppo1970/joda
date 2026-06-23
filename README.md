@@ -92,3 +92,6 @@ Per esempio, posso trovare notizie sportive e risultati live di oggi, come ad es
 
 ## Risultati Partite Calcio
 - Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
+
+## Informazioni Aggiornate
+- L'assistente cercherà di trovare informazioni aggiornate su internet quando l'utente chiederà informazioni su eventi o notizie attuali utilizzando la parola "oggi".
