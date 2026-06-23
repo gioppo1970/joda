@@ -18,6 +18,7 @@
 - Informazioni sui progetti personali o lavorativi dell'utente
 - Risultato partita Inghilterra oggi
 - Risultato partita Inghilterra-Croazia
+- Notizie di politica oggi da Repubblica
 
 ## Famiglia
 - Moglie: Antonia
@@ -45,6 +46,8 @@
   - LiveScore: risultati in tempo reale, calendario e punteggi (fonte: https://www.livescore.com/it/calcio/inghilterra/premier-league/)
   - Sofascore: calcio risultati in diretta (fonte: https://www.sofascore.com/it/football/england)
 - Corriere.it: notizie e risultati dei Mondiali di calcio (fonte: https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_giugno_17/mondiali-2026-partite-oggi-risultato-diretta-portogallo-inghilterra-croazia.shtml)
+- News Rimini.it: notizie di oggi a Rimini (fonte: https://www.newsrimini.it/)
+- Repubblica.it: notizie di politica (fonte: https://www.repubblica.it/politica)
 
 ## Storia del Saluto "Ciao"
 - Il termine "ciao" ha un'origine interessante, derivando dal veneto "s-ciao", che significa "schiavo"
@@ -58,6 +61,12 @@
 - L'ex presidente Rota è indagato per frodi fiscali e bancarotta, e la Finanza ha sequestrato 1,4 milioni di euro (fonte: Il Resto del Carlino, https://www.ilrestodelcarlino.it/rimini)
 - Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
 - La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
+- Notizie di oggi a Rimini da News Rimini.it:
+ + L'edale "Infermi" di Rimini è pronto a crescere con investimenti per circa 55 milioni di euro in sei progetti principali, tra cui l'ampliamento dei parcheggi e un nuovo padiglione (fonte: RiminiToday, https://www.riminitoday.it/)
+ + La Regione ha approvato il piano di rilancio per le Terme di Rimini (fonte: RiminiToday, https://www.riminitoday.it/)
+ + L'ex presidente Rota è indagato per frodi fiscali e bancarotta, e la Finanza ha sequestrato 1,4 milioni di euro (fonte: Il Resto del Carlino, https://www.ilrestodelcarlino.it/rimini)
+ + Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
+ + La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
 
 ## Data Odierna
 - Oggi è **martedì 23 giugno 2026** (fonte: https://www.calendariooo.com/)
@@ -149,5 +158,4 @@ Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcist
 - Brasile-Serbia: 3-1
 
 ## Classifiche e calendario dei Mondiali di calcio
-- Classifica del girone L: Inghilterra 3 punti, Portogallo 3 punti, Svizzera 0 punti, Croazia 0 punti
-- Prossime partite: Inghilterra-Portogallo, Svizzera-Croazia
+-
