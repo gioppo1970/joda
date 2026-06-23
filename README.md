@@ -14,6 +14,7 @@
 - Domanda sulla storia del saluto "ciao"
 - Domanda su chi è l'utente (ricordo della propria identità)
 - Notizie di oggi a Rimini
+- Data odierna
 
 ## Famiglia
 - Moglie: Antonia
@@ -49,3 +50,6 @@
 - L'ex presidente Rota è indagato per frodi fiscali e bancarotta, e la Finanza ha sequestrato 1,4 milioni di euro (fonte: Il Resto del Carlino, https://www.ilrestodelcarlino.it/rimini)
 - Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
 - La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
+
+## Data Odierna
+- Oggi è **martedì 23 giugno 2026** (fonte: https://www.calendariooo.com/)
