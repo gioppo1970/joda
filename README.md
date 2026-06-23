@@ -95,3 +95,29 @@ Per esempio, posso trovare notizie sportive e risultati live di oggi, come ad es
 
 ## Informazioni Aggiornate
 - L'assistente cercherà di trovare informazioni aggiornate su internet quando l'utente chiederà informazioni su eventi o notizie attuali utilizzando la parola "oggi".
+
+## Ricerca su Repubblica.it
+- L'utente ha chiesto di cercare su Repubblica.it
+- L'assistente ha risposto: "La Repubblica! Sono andato a cercare su Repubblica.it e ho trovato alcune informazioni interessanti.
+Per esempio, posso trovare notizie e articoli su:
+* Politica
+* Economia
+* Sport
+* Esteri
+* Spettacoli
+* Musica
+* Cultura
+* Scienza
+
+Se vuoi, posso anche cercare informazioni specifiche su Repubblica.it, come ad esempio:
+* Notizie sull'Inghilterra
+* Risultati delle partite di calcio dell'Inghilterra
+* Notizie sui Mondiali di calcio
+
+Dimmi cosa vuoi cercare su Repubblica.it e cercherò di trovare le informazioni per te!
+
+Inoltre, ho trovato un link per accedere direttamente a Repubblica.it:
+
+https://www.repubblica.it/
+
+Spero che questo ti sia stato utile!
