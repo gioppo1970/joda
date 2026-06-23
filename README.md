@@ -76,4 +76,6 @@
   - Diretta.it: risultati Premier League 2026/2027 in diretta (fonte: https://www.diretta.it/calcio/inghilterra/premier-league/)
   - LiveScore: risultati in tempo reale, calendario e punteggi (fonte: https://www.livescore.com/it/calcio/inghilterra/premier-league/)
   - Sofascore: calcio risultati in diretta (fonte: https://www.sofascore.com/it/football/england)
-  - Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)"
+- L'utente ha chiesto: "Quando scrivo oggi tu vaia cercare su internet, ok?"
+- L'assistente ha risposto: "Capisco! Sì, Giovanni, d'ora in poi, quando scrivi 'oggi' e chiedi informazioni su eventi o notizie attuali, cercherò di trovare informazioni aggiornate su internet per fornirti risposte più precise e aggiornate."
+- L'utente ha ricevuto informazioni aggiuntive sui risultati delle partite, incluso un risultato recente: Inghilterra-Croazia 4-2.
