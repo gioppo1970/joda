@@ -17,6 +17,7 @@
 - Data odierna
 - Informazioni sui progetti personali o lavorativi dell'utente
 - Risultato partita Inghilterra oggi
+- Risultato partita Inghilterra-Croazia
 
 ## Famiglia
 - Moglie: Antonia
@@ -78,4 +79,12 @@
   - Sofascore: calcio risultati in diretta (fonte: https://www.sofascore.com/it/football/england)
 - L'utente ha chiesto: "Quando scrivo oggi tu vaia cercare su internet, ok?"
 - L'assistente ha risposto: "Capisco! Sì, Giovanni, d'ora in poi, quando scrivi 'oggi' e chiedi informazioni su eventi o notizie attuali, cercherò di trovare informazioni aggiornate su internet per fornirti risposte più precise e aggiornate."
-- L'utente ha ricevuto informazioni aggiuntive sui risultati delle partite, incluso un risultato recente: Inghilterra-Croazia 4-2.
+- L'utente ha chiesto: "Ok con chi ha giocato l'Inghilterra ai mondiali oggi?"
+- L'assistente ha risposto: "Giovanni! Ho cercato informazioni sui Mondiali di calcio e ho trovato che l'Inghilterra ha giocato contro la Croazia oggi.
+Il risultato della partita è stato:
+Inghilterra-Croazia 4-2
+La partita si è svolta nel girone della Coppa del Mondo FIFA. L'Inghilterra ha vinto con una doppietta di Kane e gol di Bellingham e altri.
+(Fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml e https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_giugno_17/mondiali-2026-partite-oggi-risultato-diretta-portogallo-inghilterra-croazia.shtml)"
+
+## Risultati Partite Calcio
+- Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
