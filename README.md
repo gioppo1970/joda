@@ -19,6 +19,8 @@
 - Risultato partita Inghilterra oggi
 - Risultato partita Inghilterra-Croazia
 - Notizie di politica oggi da Repubblica
+- Risultato partita Ecuador-Germania ai Mondiali di calcio 2026
+- Partite in contemporanea con Ecuador-Germania
 
 ## Famiglia
 - Moglie: Antonia
@@ -48,6 +50,8 @@
 - Corriere.it: notizie e risultati dei Mondiali di calcio (fonte: https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_giugno_17/mondiali-2026-partite-oggi-risultato-diretta-portogallo-inghilterra-croazia.shtml)
 - News Rimini.it: notizie di oggi a Rimini (fonte: https://www.newsrimini.it/)
 - Repubblica.it: notizie di politica (fonte: https://www.repubblica.it/politica)
+- Gazzetta.it: notizie e risultati dei Mondiali di calcio (fonte: https://www.gazzetta.it/Calcio/Mondiali/)
+- OneFootball: partite di oggi (fonte: https://www.onefootball.com/)
 
 ## Storia del Saluto "Ciao"
 - Il termine "ciao" ha un'origine interessante, derivando dal veneto "s-ciao", che significa "schiavo"
@@ -151,11 +155,4 @@ Tuttavia, ricordo che precedentemente avevo trovato un risultato di una partita 
 
 Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcistici o sui risultati delle partite precedenti. Dimmi se posso aiutarti in qualche altro modo!
 
-## Risultati dei Mondiali di calcio
-- Inghilterra-Croazia: 4-2 (gol di Kane 2, Bellingham e altri)
-- Portogallo-Svizzera: 2-1
-- Spagna-Germania: 1-1
-- Brasile-Serbia: 3-1
-
-## Classifiche e calendario dei Mondiali di calcio
--
+## Risult
