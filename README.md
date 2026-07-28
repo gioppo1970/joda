@@ -66,11 +66,11 @@
 - Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
 - La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
 - Notizie di oggi a Rimini da News Rimini.it:
- + L'edale "Infermi" di Rimini è pronto a crescere con investimenti per circa 55 milioni di euro in sei progetti principali, tra cui l'ampliamento dei parcheggi e un nuovo padiglione (fonte: RiminiToday, https://www.riminitoday.it/)
- + La Regione ha approvato il piano di rilancio per le Terme di Rimini (fonte: RiminiToday, https://www.riminitoday.it/)
- + L'ex presidente Rota è indagato per frodi fiscali e bancarotta, e la Finanza ha sequestrato 1,4 milioni di euro (fonte: Il Resto del Carlino, https://www.ilrestodelcarlino.it/rimini)
- + Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
- + La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
+  + L'edale "Infermi" di Rimini è pronto a crescere con investimenti per circa 55 milioni di euro in sei progetti principali, tra cui l'ampliamento dei parcheggi e un nuovo padiglione (fonte: RiminiToday, https://www.riminitoday.it/)
+  + La Regione ha approvato il piano di rilancio per le Terme di Rimini (fonte: RiminiToday, https://www.riminitoday.it/)
+  + L'ex presidente Rota è indagato per frodi fiscali e bancarotta, e la Finanza ha sequestrato 1,4 milioni di euro (fonte: Il Resto del Carlino, https://www.ilrestodelcarlino.it/rimini)
+  + Il Comune di Rimini ha dato l'ok alla cessione dell'area dell'ex Questura per la realizzazione di uno studentato (fonte: CorriereRomagna, https://www.corriereromagna.it/rimini)
+  + La Notte Rosa a Rimini si è svolta senza particolari incidenti, con il bilancio dei Carabinieri che ha registrato alcuni episodi di furti, droga e alcol al volante (fonte: Rimininews24.it, https://www.rimininews24.it/)
 
 ## Data Odierna
 - Oggi è **martedì 23 giugno 2026** (fonte: https://www.calendariooo.com/)
@@ -102,7 +102,9 @@ La partita si è svolta nel girone della Coppa del Mondo FIFA. L'Inghilterra ha 
 - L'utente ha chiesto: "Cerca su gazzetta.it"
 - L'assistente ha risposto: "La Gazzetta dello Sport! Sono andato a cercare su gazzetta.it e ho trovato alcune informazioni interessanti.
 Per esempio, posso trovare notizie sportive e risultati live di oggi, come ad esempio:
-* Notizie sportive e risultati live di calcio, basket, F1, MotoGP, ciclismo, tennis e molto altro (fonte: https://www.gazzetta.it/)
+* Notizie sportive e risultati live di calcio, basket, F1, MotoGP, ciclismo, tennis e molto altro (fonte: https://www.gazzetta.it/)"
+- L'utente ha chiesto: "come ti chiami?"
+- L'assistente ha risposto: "Mi chiamo Joda, il tuo assistente."
 
 ## Risultati Partite Calcio
 - Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
@@ -134,7 +136,7 @@ Inoltre, ho trovato un link per accedere direttamente a Repubblica.it:
 
 https://www.repubblica.it/
 
-Spero che questo ti sia stato utile!
+Spero che questo ti sia stato utile!"
 
 ## Ultimi Risultati Partite Calcio
 - L'utente ha chiesto: "Risultato partita Inghilterra"
@@ -154,5 +156,3 @@ Tuttavia, ricordo che precedentemente avevo trovato un risultato di una partita 
 * Inghilterra-Croazia 4-2: gol di Kane (2), Bellingham e altri (fonte: https://www.gazzetta.it/Calcio/Mondiali/17-06-2026/inghilterra-croazia-live-risultato-e-marcatori-mondiali-girone-l-prima-giornata.shtml)
 
 Se vuoi, posso anche aiutarti a trovare informazioni sui prossimi eventi calcistici o sui risultati delle partite precedenti. Dimmi se posso aiutarti in qualche altro modo!
-
-## Risult
